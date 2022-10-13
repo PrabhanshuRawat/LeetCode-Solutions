@@ -105,7 +105,7 @@ git push origin branch-name
 ```
 
 - Make a pull request.
-- Star the repository.
+- Star the repository ....
 
 ### NOTE
 
